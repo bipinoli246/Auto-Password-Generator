@@ -1,4 +1,4 @@
-#  MeToo
+#  Random Password Generator
 
 A Python project that records and tracks user responses or inputs in a simple and organized way.  
 It helps users log information quickly and retrieve it when needed.
